@@ -21,4 +21,3 @@ Author: Adeel Ahmed | https://www.linkedin.com/in/adeelahmed-
 - The top-5 slide shows the query without ORDER BY and LIMIT.
 - The top-3-per-category result does not show the category column.
 - "Most common size" counts order lines, not pizzas.
-- Possible improvement: re-run the queries on the re-downloaded dataset with these fixes.
