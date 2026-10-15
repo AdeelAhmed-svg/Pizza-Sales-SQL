@@ -11,3 +11,14 @@ SQL analysis of a pizza sales dataset, answering 13 business questions. The full
 SQL joins, aggregation, grouping, window functions, business-style analysis
 
 Author: Adeel Ahmed | https://www.linkedin.com/in/adeelahmed-
+
+## insight:- 
+
+## Notes and limitations
+- My original SQL files were lost when I changed laptops. This PDF shows the queries and results exactly as I ran them.
+- The orders-by-hour result is not sorted by hour.
+- The "percentage contribution" query groups by category, not by individual pizza type.
+- The top-5 slide shows the query without ORDER BY and LIMIT.
+- The top-3-per-category result does not show the category column.
+- "Most common size" counts order lines, not pizzas.
+- Possible improvement: re-run the queries on the re-downloaded dataset with these fixes.
